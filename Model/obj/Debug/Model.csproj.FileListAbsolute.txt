@@ -1,0 +1,71 @@
+C:\Users\Administrator\Desktop\HoPu_Man\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\HoPu_Man\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\HoPu_Man\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HoPu_Man\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HoPu_Man\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\HoPu_Man\Model\obj\Debug\Model.pdb
+E:\实训项目\第一个项目\HoPu_Man\Model\bin\Debug\Model.dll
+E:\实训项目\第一个项目\HoPu_Man\Model\bin\Debug\Model.pdb
+E:\实训项目\第一个项目\HoPu_Man\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\实训项目\第一个项目\HoPu_Man\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\实训项目\第一个项目\HoPu_Man\Model\obj\Debug\Model.dll
+E:\实训项目\第一个项目\HoPu_Man\Model\obj\Debug\Model.pdb
+C:\Users\Shinelon\Desktop\HoPu_Man\Model\bin\Debug\Model.dll
+C:\Users\Shinelon\Desktop\HoPu_Man\Model\bin\Debug\Model.pdb
+C:\Users\Shinelon\Desktop\HoPu_Man\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Shinelon\Desktop\HoPu_Man\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Shinelon\Desktop\HoPu_Man\Model\obj\Debug\Model.dll
+C:\Users\Shinelon\Desktop\HoPu_Man\Model\obj\Debug\Model.pdb
+H:\实训\HoPu\Model\bin\Debug\Model.dll
+H:\实训\HoPu\Model\bin\Debug\Model.pdb
+H:\实训\HoPu\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+H:\实训\HoPu\Model\obj\Debug\Model.dll
+H:\实训\HoPu\Model\obj\Debug\Model.pdb
+C:\Users\Administrator.USER-20191118KT\Desktop\HoPu\Model\bin\Debug\Model.dll
+C:\Users\Administrator.USER-20191118KT\Desktop\HoPu\Model\bin\Debug\Model.pdb
+C:\Users\Administrator.USER-20191118KT\Desktop\HoPu\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.USER-20191118KT\Desktop\HoPu\Model\obj\Debug\Model.dll
+C:\Users\Administrator.USER-20191118KT\Desktop\HoPu\Model\obj\Debug\Model.pdb
+C:\Users\Shinelon\Desktop\上课\HoPu\Model\bin\Debug\Model.dll
+C:\Users\Shinelon\Desktop\上课\HoPu\Model\bin\Debug\Model.pdb
+C:\Users\Shinelon\Desktop\上课\HoPu\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Shinelon\Desktop\上课\HoPu\Model\obj\Debug\Model.dll
+C:\Users\Shinelon\Desktop\上课\HoPu\Model\obj\Debug\Model.pdb
+C:\Users\Shinelon\Desktop\上课\HoPu\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Administrator.USER-20191118KT\Desktop\宿舍\HoPu\Model\bin\Debug\Model.dll
+C:\Users\Administrator.USER-20191118KT\Desktop\宿舍\HoPu\Model\bin\Debug\Model.pdb
+C:\Users\Administrator.USER-20191118KT\Desktop\宿舍\HoPu\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Administrator.USER-20191118KT\Desktop\宿舍\HoPu\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.USER-20191118KT\Desktop\宿舍\HoPu\Model\obj\Debug\Model.dll
+C:\Users\Administrator.USER-20191118KT\Desktop\宿舍\HoPu\Model\obj\Debug\Model.pdb
+C:\Users\Administrator.USER-20191118KT\Desktop\HoPu\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Shinelon\Desktop\上课\实训\HoPu\Model\bin\Debug\Model.dll
+C:\Users\Shinelon\Desktop\上课\实训\HoPu\Model\bin\Debug\Model.pdb
+C:\Users\Shinelon\Desktop\上课\实训\HoPu\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Shinelon\Desktop\上课\实训\HoPu\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Shinelon\Desktop\上课\实训\HoPu\Model\obj\Debug\Model.dll
+C:\Users\Shinelon\Desktop\上课\实训\HoPu\Model\obj\Debug\Model.pdb
+D:\黄小小（勿动）\HoPu\Model\bin\Debug\Model.dll
+D:\黄小小（勿动）\HoPu\Model\bin\Debug\Model.pdb
+D:\黄小小（勿动）\HoPu\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\黄小小（勿动）\HoPu\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\黄小小（勿动）\HoPu\Model\obj\Debug\Model.dll
+D:\黄小小（勿动）\HoPu\Model\obj\Debug\Model.pdb
+E:\实训\黄小小\HoPu\Model\bin\Debug\Model.dll
+E:\实训\黄小小\HoPu\Model\bin\Debug\Model.pdb
+E:\实训\黄小小\HoPu\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\实训\黄小小\HoPu\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\实训\黄小小\HoPu\Model\obj\Debug\Model.dll
+E:\实训\黄小小\HoPu\Model\obj\Debug\Model.pdb
+C:\Users\Shinelon\Desktop\项目一\HoPu\Model\bin\Debug\Model.dll
+C:\Users\Shinelon\Desktop\项目一\HoPu\Model\bin\Debug\Model.pdb
+C:\Users\Shinelon\Desktop\项目一\HoPu\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Shinelon\Desktop\项目一\HoPu\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Shinelon\Desktop\项目一\HoPu\Model\obj\Debug\Model.dll
+C:\Users\Shinelon\Desktop\项目一\HoPu\Model\obj\Debug\Model.pdb
+G:\大学\实训 合集\项目一\HoPu\Model\bin\Debug\Model.dll
+G:\大学\实训 合集\项目一\HoPu\Model\bin\Debug\Model.pdb
+G:\大学\实训 合集\项目一\HoPu\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+G:\大学\实训 合集\项目一\HoPu\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+G:\大学\实训 合集\项目一\HoPu\Model\obj\Debug\Model.dll
+G:\大学\实训 合集\项目一\HoPu\Model\obj\Debug\Model.pdb
